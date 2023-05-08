@@ -1,15 +1,60 @@
 {
-    "users": [
+    "ipad": [
+      {
+        "title": "iPad Pro",
+        "image": "https://www.apple.com/v/ipad/home/cd/images/overview/compare_ipad_pro__erf9x8mw04sy_small_2x.png",
+        "price": 900,
+        "id": 1
+       },
+       {
+        "title": "iPad Air",
+        "image": "https://www.apple.com/v/ipad/home/cd/images/overview/compare_ipad_air__bxjv33pk6nte_large.png",
+        "price": 599,
+        "id": 2
+       },
+       {
+        "title": "iPad 10th Gen",
+        "image": "https://www.apple.com/v/ipad/home/cd/images/overview/compare_ipad_10_9__f7p2wja0gwuy_large.png",
+        "price": 449,
+        "id": 3
+       },
+       {
+        "title": "iPad 9th Gen",
+        "image": "https://www.apple.com/v/ipad/home/cd/images/overview/compare_ipad_10_2__fwgwy7jydtea_large.png",
+        "price": 329,
+        "id": 4
+       },
+       {
+        "title": "iPad mini",
+        "image": "https://www.apple.com/v/ipad/home/cd/images/overview/compare_ipad_mini__czcsk9ukpeie_large.png",
+        "price": 499,
+        "id": 5
+       }
+    ],
+    "iphone": [
       {
         "id": 1,
-        "username": "Aakash",
-        "email": "aakashmukherjee1996@gmail.com",
-        "password": "123456789"
-      }
-    ],
-    "products": [
-      {
-        "name":"cart"
-      }
+        "image": "https://www.apple.com/v/iphone/home/bo/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_medium.jpg",
+        "title": "iPhone 14 Pro",
+        "price": 999
+       },
+       {
+        "id": 2,
+        "image": "https://www.apple.com/v/iphone/home/bo/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_medium.jpg",
+        "title": "iPhone 14",
+        "price": 799
+       },
+       {
+        "id": 3,
+        "image": "https://www.apple.com/v/iphone/home/bo/images/overview/compare/compare_iphone_13__fqzwhmfmroey_medium.jpg",
+        "title": "iPhone 13",
+        "price": 599
+       },
+       {
+        "id": 4,
+        "image": "https://www.apple.com/v/iphone/home/bo/images/overview/compare/compare_iphone_se__d5blqx1pgymq_medium.jpg",
+        "title": "iPhone SE",
+        "price": 429
+       }
     ]
   }
