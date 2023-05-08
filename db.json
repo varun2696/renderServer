@@ -2,31 +2,45 @@
     "ipad": [
       {
         "title": "iPad Pro",
-        "image": "https://www.apple.com/v/ipad/home/cd/images/overview/compare_ipad_pro__erf9x8mw04sy_small_2x.png",
-        "price": 900,
+        "image": [
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-model-select-gallery-1-202212?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1667594167948",
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-model-select-gallery-2-202212?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1667594167534"
+        ],
         "id": 1
        },
        {
         "title": "iPad Air",
-        "image": "https://www.apple.com/v/ipad/home/cd/images/overview/compare_ipad_air__bxjv33pk6nte_large.png",
+        "image": [
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-unselect-gallery-1-202207?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1654902977555",
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-unselect-gallery-2-202207?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1654902978006"
+        ],
         "price": 599,
         "id": 2
        },
        {
         "title": "iPad 10th Gen",
-        "image": "https://www.apple.com/v/ipad/home/cd/images/overview/compare_ipad_10_9__f7p2wja0gwuy_large.png",
+        "image": [
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-10th-gen-finish-unselect-gallery-1-202212?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1667592106064",
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-10th-gen-finish-unselect-gallery-1-202212?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1667592106064"
+        ],
         "price": 449,
         "id": 3
        },
        {
         "title": "iPad 9th Gen",
-        "image": "https://www.apple.com/v/ipad/home/cd/images/overview/compare_ipad_10_2__fwgwy7jydtea_large.png",
+        "image": [
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-finish-unselect-gallery-1-202207?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1654902561778",
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-finish-unselect-gallery-2-202207?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1654902562326"
+        ],
         "price": 329,
         "id": 4
        },
        {
         "title": "iPad mini",
-        "image": "https://www.apple.com/v/ipad/home/cd/images/overview/compare_ipad_mini__czcsk9ukpeie_large.png",
+        "image": [
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-mini-finish-unselect-gallery-1-202207?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1654903896391",
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-mini-finish-unselect-gallery-2-202207?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1654903896759"
+        ],
         "price": 499,
         "id": 5
        }
@@ -34,25 +48,37 @@
     "iphone": [
       {
         "id": 1,
-        "image": "https://www.apple.com/v/iphone/home/bo/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_medium.jpg",
+        "image": [
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-model-unselect-gallery-1-202209?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660753619946",
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-model-unselect-gallery-2-202209_GEO_US?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1660753617560"
+        ],
         "title": "iPhone 14 Pro",
         "price": 999
        },
        {
         "id": 2,
-        "image": "https://www.apple.com/v/iphone/home/bo/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_medium.jpg",
+        "image": [
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-model-unselect-gallery-1-202209?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660689596976",
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-model-unselect-gallery-2-202303_GEO_US?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1676930656150"
+        ],
         "title": "iPhone 14",
         "price": 799
        },
        {
         "id": 3,
-        "image": "https://www.apple.com/v/iphone/home/bo/images/overview/compare/compare_iphone_13__fqzwhmfmroey_medium.jpg",
+        "image": [
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-model-unselect-gallery-1-202207?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1654893619853",
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-model-unselect-gallery-2-202207_GEO_US?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1654893618197"
+        ],
         "title": "iPhone 13",
         "price": 599
        },
        {
         "id": 4,
-        "image": "https://www.apple.com/v/iphone/home/bo/images/overview/compare/compare_iphone_se__d5blqx1pgymq_medium.jpg",
+        "image": [
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-model-unselect-gallery-2-202207_GEO_US?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1654893618197",
+          "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-finish-unselect-gallery-2-202207?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1655249916900"
+        ],
         "title": "iPhone SE",
         "price": 429
        }
