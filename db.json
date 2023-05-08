@@ -6,6 +6,7 @@
           "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-model-select-gallery-1-202212?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1667594167948",
           "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-model-select-gallery-2-202212?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1667594167534"
         ],
+        "price": 799,
         "id": 1
        },
        {
@@ -82,5 +83,14 @@
         "title": "iPhone SE",
         "price": 429
        }
+    ],
+    "cartItems": [
+      {
+        "id":1,
+        "title":"iPad 2",
+        "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-10th-gen-finish-select-202212-blue-wifi?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1670856033679",
+        "price":599,
+        "total":0
+      }
     ]
   }
